@@ -54,5 +54,4 @@ A comprehensive monitoring and predictive analytics system for elderly care, bui
 2. Install dependencies
 3. Run `streamlit run app.py`
 
-## License
-[Your License Here]
+
